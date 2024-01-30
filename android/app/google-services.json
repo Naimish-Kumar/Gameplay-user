@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "153593789769",
+    "project_id": "app-tournament-91a3f",
+    "storage_bucket": "app-tournament-91a3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153593789769:android:0cb7e2cc21b798a7bd6e98",
+        "android_client_info": {
+          "package_name": "com.app.tournament"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153593789769-fehirfi1dckp14raq68q35p81vh1gl43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC13cIc8UwiJAhDYQ1y9g_xMGbCydnkqB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153593789769-fehirfi1dckp14raq68q35p81vh1gl43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153593789769:android:9cae66d6f03f3c89bd6e98",
+        "android_client_info": {
+          "package_name": "com.app.tournament.app_tournament"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153593789769-fehirfi1dckp14raq68q35p81vh1gl43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC13cIc8UwiJAhDYQ1y9g_xMGbCydnkqB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153593789769-fehirfi1dckp14raq68q35p81vh1gl43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
